@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/chow_ashfaq" target="blank"><img src="https://img.shields.io/twitter/follow/chow_ashfaq?logo=twitter&style=for-the-badge" alt="chow_ashfaq" /></a> </p>
 
-- 🌱 I’m currently learning **App development**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **ashchow018@gmail.com**
 
